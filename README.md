@@ -1,1 +1,1 @@
-<img src="https://giffiles.alphacoders.com/221/221253.gif" alt="GIF Animation" width="800" />
+<img src="https://i.pinimg.com/originals/b8/6f/e5/b86fe51d6dbf77b7b698b13ae3c56335.gif" alt="GIF" width="100%" style="max-height: 300px;" />
