@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Allure-8BC34A?style=for-the-badge&amp;logo=allure&amp;logoColor=white" alt="Allure" />
+  <img src="https://img.shields.io/badge/Proxyman-7356D8?style=for-the-badge&amp;logoColor=white" alt="Proxyman" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&amp;logo=ios&amp;logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=white" alt="Jetpack Compose" />
